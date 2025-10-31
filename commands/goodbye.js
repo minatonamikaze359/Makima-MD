@@ -116,7 +116,7 @@ async function handleLeaveEvent(sock, id, participants) {
                     .replace(/{user}/g, `@${user}`)
                     .replace(/{group}/g, groupName);
             } else {
-                fallbackMessage = `Goodbye @${user}! 👋`;
+                fallbackMessage = `Goodbye bby @${user}! 👋`;
             }
             
             await sock.sendMessage(id, {
