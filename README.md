@@ -1,194 +1,279 @@
-# 🤖 Knight Bot
+🤖 Makima Bot
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+This is a powerful WhatsApp bot built using the Baileys library with advanced features for group management, entertainment, and automation. It's designed to help admins efficiently manage WhatsApp groups while providing fun and utility features for all users.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF6B6B&center=true&width=910&height=100&lines=Makima+Bot;Multi+Device+Whatsapp+Bot;Coded+By+Minato+McLaren" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/minatonamikaze359/Makima-MD/main/assets/Makima_image.jpg" alt="Makima Bot" height="300" style="border-radius: 15px;"> 
 </div>
 
 ---
 
-## 🚀 Steps to Deploy
+🚀 Quick Deployment
 
-### Step 1: Fork the Repository
+Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork the Makima Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  <a href="https://github.com/makima-dev/Makima-Bot/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Fork the repository"/>
   </a>
 </div>
 
 ---
 
-### Step 2: Get Pair Code
+Step 2: Get Pair Code
 
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+Deploy the bot and easily connect it to your WhatsApp account using pair code:
 
 <div align="center">
   <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-4ECDC4?style=for-the-badge&logo=replit&logoColor=white" alt="Deploy on Replit"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+  <a href="https://makima-bot-paircode.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-FFE66D?style=for-the-badge&logo=render&logoColor=white" alt="Generate Pair Code"/>
   </a>
 </div>
 
-
-### After getting creds.json file, upload it to session folder
+After getting creds.json file, upload it to session folder
 
 ---
 
-### Step 3: Deploy Now
+Step 3: Deploy Now
 
-For further customization and setup guidance, click the button below:
+Choose your preferred deployment method:
 
 <div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
+  <a href="https://youtu.be/makima-bot-tutorial" target="_blank">
+    <img src="https://img.shields.io/badge/Deploy%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial"/>
   </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  <a href="https://bot-hosting.net/?aff=makima-bot" target="_blank">
+    <img src="https://img.shields.io/badge/Deploy%20on%20Panel-28a745?style=for-the-badge&logo=server&logoColor=white" alt="Deploy on Panel"/>
   </a>
 </div>
 
+Recommended Hosting Panel
 
-### Deploy Now on Below Panel
 <div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+<a href="https://dashboard.katabump.com/auth/login#makima" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-MakimaBot-8A2BE2?style=for-the-badge&logo=server&logoColor=white" alt="Katabump"/>
 </a>
 </div>
 
-### Join Us
+Join Our Community
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+  <a href="https://t.me/makima_bot_support" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  <a href="https://whatsapp.com/channel/0029VbB4g3eAe5VslZgJdq38" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
   </a>
 </div>
 
 ---
 
-## ⚙️ Features
+⚡ Features
 
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
+🛡️ Group Management
 
----
+· Smart Member Tagging with .tagall, .tagnotadmin, .hidetag
+· Advanced Admin Controls - Mute, unmute, ban, kick, promote, demote
+· Auto-Moderation - Anti-link, anti-badword, anti-tag protection
+· Welcome/Goodbye System - Customizable messages for group events
 
-## 📖 About
+🎮 Entertainment
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+· Interactive Games - Tic-Tac-Toe, Hangman, Trivia, Truth or Dare
+· AI-Powered Features - GPT, Gemini, Image Generation with Flux & Sora
+· Fun Commands - Memes, jokes, quotes, facts, compliments, insults
+· Media Tools - Sticker creation, image editing, text effects
 
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+🎨 Media & Creative
 
----
+· Sticker Factory - Convert images/videos to stickers with .sticker
+· Image Processing - Blur, crop, background removal, enhancement
+· Text Art - 20+ stylish text effects with textmaker commands
+· Social Media Downloader - Instagram, Facebook, TikTok, YouTube
 
-## 🛠️ Setup & Installation
+🤖 Advanced Features
 
-### Prerequisites
+· AI Chatbot - Smart conversational AI
+· Auto-Reply System - Intelligent response automation
+· Multi-Language Support - Translation capabilities
+· Voice Features - Text-to-speech with .tts
 
-- Node.js installed on your system
-- Git installed (for cloning the repository)
+⚙️ Utility
 
-### Step-by-Step Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
-    ```
-
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the bot:**
-
-    ```bash
-    node index.js
-    ```
-
-4. **Scan the QR code:**
-
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
+· Weather & News - Real-time information
+· File Conversion - Multiple format support
+· URL Shortener - Link management tools
+· System Monitoring - Bot performance tracking
 
 ---
 
+🛠️ Setup & Installation
 
-## 📄 License
+Prerequisites
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+· Node.js 18.x or higher installed
+· Git installed (for cloning the repository)
+· Active WhatsApp account
+
+Quick Setup Guide
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/makima-dev/Makima-Bot.git
+   cd Makima-Bot
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Configure your bot:
+   · Edit settings.js with your details
+   · Set your owner number and bot name
+4. Run the bot:
+   ```bash
+   node index.js
+   ```
+5. Authentication:
+   · Scan the QR code with WhatsApp
+   · Or use pair code method for easier setup
+
+Environment Configuration
+
+Create a .env file with:
+
+```env
+SESSION_ID=your_session_id
+OWNER_NUMBER=your_whatsapp_number
+BOT_NAME=Makima
+```
 
 ---
 
-## 🙌 Contributions
+📖 About Makima Bot
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+Makima Bot is a next-generation WhatsApp assistant built with modern technologies and user experience in mind. It combines powerful group management capabilities with entertainment features, making it the perfect companion for WhatsApp communities.
 
----
+Key Advantages:
 
-## 🌟 Show your support
+· 🚀 Lightning Fast - Optimized performance
+· 🔒 Secure - Privacy-focused design
+· 📱 Multi-Device - Works across all your devices
+· 🎯 150+ Commands - Extensive feature set
+· 🔄 Regular Updates - Continuous improvements
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
-
-
-## Credits
-
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+Built with the Baileys library, Makima Bot provides reliable WhatsApp Web API integration with multi-device support, ensuring stable performance and wide compatibility.
 
 ---
 
-## ⚠️ Important Warning
+📄 License
 
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📝 Legal
+---
 
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+🤝 Contributions
 
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
+We welcome contributions from the community! Whether it's bug reports, feature requests, or code contributions, your input is valuable.
 
-## 📜 Copyright Notice
+How to contribute:
 
-Copyright (c) 2024 Professor. All rights reserved.
+1. Fork the repository
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+Resources:
+
+· Report Bugs
+· Request Features
+· Join Discussion
+
+---
+
+🌟 Support the Project
+
+If you find Makima Bot useful, please consider giving it a ⭐️ on GitHub!
+
+<div align="center">
+  <a href="https://github.com/makima-dev/Makima-Bot">
+    <img src="https://img.shields.io/badge/Star%20on%20GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub"/>
+  </a>
+</div>
+
+👨‍💻 Credits
+
+· Developer: Minato McLaren
+· Core Library: Baileys
+· Pair Code System: Inspired by TechGod143 & DGXeon
+· Community Contributors: All our amazing users and testers
+
+---
+
+⚠️ Important Disclaimer
+
+Educational Purpose Only: This bot is created for educational and personal use purposes. This is NOT an official WhatsApp product.
+
+Use at Your Own Risk: Using unofficial WhatsApp clients may lead to temporary or permanent account bans. The developers are not responsible for any consequences resulting from the use of this software.
+
+Responsible Usage:
+
+· Do not spam or harass users
+· Do not use for illegal activities
+· Respect WhatsApp's Terms of Service
+· Use responsibly and ethically
+
+📝 Legal Notice
+
+· This project is not affiliated with, authorized, maintained, sponsored, or endorsed by WhatsApp LLC or any of its affiliates or subsidiaries.
+· This is an independent and unofficial software application.
+· WhatsApp is a registered trademark of WhatsApp LLC.
+· The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+License Compliance
+
+When using this software, you must:
+
+· Comply with all applicable laws and regulations
+· Include original license and copyright notices
+· Credit the original authors appropriately
+· Not use the software for spam, abuse, or malicious purposes
+
+📜 Copyright Notice
+
+Copyright (c) 2024 Minato McLaren. All rights reserved.
+
+This project incorporates code from various open source projects:
+
+· Baileys - MIT License
+· Other dependencies as listed in package.json - Respective licenses
+
+---
+
+<div align="center">
+
+💬 Need Help?
+
+Contact Support:
+
+· 📱 WhatsApp: +8801719741293
+· 📢 Channel: Makima Updates
+· 🐛 Issues: GitHub Issues
+
+Made with ❤️ by Minato McLaren
+
+</div>
